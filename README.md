@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 👋 I’m looking to collaborate on new projects
 - 📫 How to reach me:https://www.linkedin.com/in/hatem-attia-3756b4176/
 
-<p><em>Bachelor's degree of computer Science at the <a href="http://www.isimm.rnu.tn/" >Higher Institute of Informatics and Mathematics of Monastir</a></br>Flutter developer at <a href="https://pineappleworkshop.com">Pineapple Workshop</a>
-</em></p>
+[![instagram hatem.codes](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/50px-Instagram_logo_2016.svg.png)](https://www.instagram.com/hatem.codes/)
+</br>
+[![Linkedin: engineerhatem](https://img.shields.io/badge/-hatemAttia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hatem-attia-3756b4176/)](https://www.linkedin.com/in/hatem-attia-3756b4176/)
+[![GitHub hatemAttia](https://img.shields.io/github/followers/hatemAttia?label=follow&style=social)](https://github.com/hatemAttia)
+
+---
 
 
 </br>
